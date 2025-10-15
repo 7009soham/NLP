@@ -1,0 +1,33 @@
+# Core NLP Libraries
+nltk>=3.8.1
+spacy>=3.7.0
+textblob>=0.17.1
+
+# Machine Learning
+scikit-learn>=1.3.0
+numpy>=1.24.0
+scipy>=1.11.0
+
+# Deep Learning Frameworks
+torch>=2.0.0
+tensorflow>=2.13.0
+
+# Transformers and Modern NLP
+transformers>=4.30.0
+datasets>=2.14.0
+tokenizers>=0.13.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Utilities
+pandas>=2.0.0
+jupyter>=1.0.0
+notebook>=7.0.0
+tqdm>=4.65.0
+
+# Optional: For specific tasks
+# gensim>=4.3.0  # For Word2Vec, LDA
+# sentence-transformers>=2.2.0  # For sentence embeddings
+# fairseq>=0.12.0  # For sequence-to-sequence models
